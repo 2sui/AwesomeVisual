@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0330BB29BCFB1C08AE04E2763CE7B274CD330D49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0330BB29BCFB1C08AE04E2763CE7B274CD330D49" : 0,
+    "BDDD6885C44874282B8FEDCB282F6018A3028151" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2A786369-6C75-46A7-B329-2B1885DA91B5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0330BB29BCFB1C08AE04E2763CE7B274CD330D49" : "AwesomeVisual\/",
+    "BDDD6885C44874282B8FEDCB282F6018A3028151" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AwesomeVisual",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AwesomeVisual.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.com:QPHi\/AwesomeVisual.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0330BB29BCFB1C08AE04E2763CE7B274CD330D49"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.com:ZMiOS\/ZMRing.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BDDD6885C44874282B8FEDCB282F6018A3028151"
+    }
+  ]
+}
